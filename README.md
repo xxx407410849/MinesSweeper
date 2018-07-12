@@ -9,7 +9,7 @@
 - 爆炸动画
 - 展开延时
 - 弹性反馈
-#使用
+## 截图
+![](https://github.com/xxx407410849/MinesSweeper/blob/master/img/1.png)
+# 使用
 请直接下载demo使用 [MinesSweeper-github](https://github.com/xxx407410849/MinesSweeper/)
-#截图
-![]()
