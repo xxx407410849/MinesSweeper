@@ -13,3 +13,5 @@
 ![](https://github.com/xxx407410849/MinesSweeper/blob/master/img/1.png)
 # 使用
 请直接下载demo使用 [MinesSweeper-github](https://github.com/xxx407410849/MinesSweeper/)
+# 分析博文
+[CSDN](https://blog.csdn.net/u012312705/article/details/81099166)
